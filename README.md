@@ -1,4 +1,4 @@
-# StudentsInTechCommunity
+# Students In Tech Community
 
 Welcome to the Student in Tech Community. A group for likeminded students to connect and learn about how to leverage technology in their early careers or pursue a career in the tech industry. We aim to gather for regular events for networking, workshopping and meeting industry leaders to empower you build your confidence for landing your dream job.
 
