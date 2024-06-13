@@ -16,6 +16,6 @@ This group is led by [Elizabeth Pappalardo](https://www.linkedin.com/in/elizabet
 
 AI, your competitive edge
 
-Download slide deck - TBC
+[Download slide deck](https://github.com/ElizabethPappalardo/StudentsInTechCommunity/blob/main/MSLearn_SA_Student%20in%20Tech_13%20June_Github.pdf)
 
 ![Image of event title for Thursday 13 June ](https://secure.meetupstatic.com/photos/event/7/4/5/f/600_521549791.webp?w=750)
